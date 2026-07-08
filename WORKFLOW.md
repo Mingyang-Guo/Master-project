@@ -1,6 +1,6 @@
 # Public Reproduction Workflow
 
-This file gives the command order for the public reproduction workflow.
+This file gives the command order for the public reproduction workflow. See `DETAIL_WORKFLOW.md` for the expected files and console summaries produced by each command.
 
 ## Step 1
 

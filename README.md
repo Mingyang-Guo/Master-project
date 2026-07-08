@@ -9,6 +9,7 @@ The public workflow uses the public Step 2 test set with report-level ambiguity 
 - `models/`: model download helpers and checkpoint placement notes.
 - `data/`: source report corpus placement notes.
 - `local_private_data/`: private input and generated output placement tree.
+- `DETAIL_WORKFLOW.md`: command-by-command expected runtime outputs and output descriptions.
 - `step1_Get_impression_and_findings_both_exist_data/`: report extraction and four-LLM ambiguity classification.
 - `step2_Model_finetune_and_summarize_evaluate/`: baseline summarization, RaTEScore evaluation, t-tests, and visualization.
 - `step2_ambiguity_score_0_to_10/`: fine-grained 0-10 ambiguity scoring.
